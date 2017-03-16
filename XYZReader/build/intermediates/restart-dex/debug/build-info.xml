@@ -5,40 +5,40 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="192458990571831"
+    timestamp="198678327187562"
     token="7484689931440380988"
-    verifier="STATIC_INITIALIZER_CHANGE" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="5352" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="45" />
+        duration="0" />
     <task
         name="verifier"
-        duration="37" />
+        duration="0" />
 
     <artifact
-        location="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
-        type="DEX" />
+        location="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
-        timestamp="190379818363822"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="198541631020696"
+        verifier="MANIFEST_FILE_CHANGE" >
         <artifact
             location="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="192458990571831"
-        verifier="STATIC_INITIALIZER_CHANGE" >
+        timestamp="198678327187562"
+        verifier="COMPATIBLE" >
         <artifact
-            location="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
-            type="DEX" />
+            location="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>
