@@ -3,6 +3,42 @@
 
     <item
         is-multidex="true"
+        jar="/Users/Justin/Developer/android/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.0.0_bade424a2583b26201688c02d480dd14d723c8c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_1a5f5ccf3bf3e61717dd2b4ed77d3f53cbfc7745/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.0.0_bb666685962fa2357172da2ac29cd6c899a69516/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Justin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_95fb5ebabfb5e21c8478e2862b591a5e30d93179/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -52,17 +88,8 @@
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="27559a3a6492c0f08c6fe77a4fb0fe33f767ed5c">
+        sha1="ceb8633963524cbd20d3c5bde1a3f5375ed0abec">
         <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bcede5c26d89385217a5abb86f40118be0d1e7e4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Justin/Developer/android/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.0.0_bade424a2583b26201688c02d480dd14d723c8c5/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -72,24 +99,6 @@
         revision="22.0.1"
         sha1="98476622f10715998eacf9240d6b479f12c66143">
         <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_aff4b45701574f8a9ed24cf57a52f7c04bf4c02f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_1a5f5ccf3bf3e61717dd2b4ed77d3f53cbfc7745/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.0.0_bb666685962fa2357172da2ac29cd6c899a69516/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -106,7 +115,7 @@
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="bab7bb66238ed78d0871c786c31d5cac5bdc0e60">
+        sha1="72edb422e18c1e5b40eba963ba9bd01546cf62be">
         <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d65d0d812012e4fc0ba8933831897c2f1bbd2141/classes.dex" />
     </item>
     <item
@@ -117,15 +126,6 @@
         revision="22.0.1"
         sha1="c6d79137693d494dee16372d3921f919eb724ced">
         <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-22.0.0_83468e2cc27c3d4bdbf405807131b1a70df796ad/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Justin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="7052283359001bb108753cb0583a887d3bf94c82">
-        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_95fb5ebabfb5e21c8478e2862b591a5e30d93179/classes.dex" />
     </item>
 
 </items>
