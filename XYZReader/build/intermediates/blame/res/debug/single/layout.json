@@ -4,20 +4,20 @@
         "source": "/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_layout.xml"
-    },
-    {
         "merged": "/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
         "source": "/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_menu_layout.xml"
+        "merged": "/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_layout.xml"
     },
     {
         "merged": "/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/activity_article_list.xml",
         "source": "/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/src/main/res/layout/activity_article_list.xml"
+    },
+    {
+        "merged": "/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_menu_layout.xml"
     },
     {
         "merged": "/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/list_item_article.xml",

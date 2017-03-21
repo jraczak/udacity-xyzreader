@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Mar 20 17:46:57 PDT 2017
+#Mon Mar 20 17:52:31 PDT 2017
 122.file=/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
 60.set=ANDROID_RESOURCE
 52.set=ANDROID_RESOURCE
