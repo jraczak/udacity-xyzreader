@@ -11,13 +11,13 @@
                     "endOffset": 127
                 },
                 "from": {
-                    "file": "/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-w720dp-v13/values.xml",
+                    "file": "/Users/Justin/.android/build-cache/d28c17167cefb2c905a05c515625ef70928b697a/output/res/values-w720dp/values-w720dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 278,
+                        "startOffset": 293,
                         "endColumn": 76,
-                        "endOffset": 350
+                        "endOffset": 365
                     }
                 }
             }

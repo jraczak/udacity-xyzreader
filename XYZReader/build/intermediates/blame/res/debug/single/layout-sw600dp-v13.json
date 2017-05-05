@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/Justin/.android/build-cache/53a0d74f0143b490494cabc1e2ee0347f6213741/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout-sw600dp-v13/layout_snackbar.xml",
+        "source": "/Users/Justin/.android/build-cache/6281507939249634e77dba17900c125faa359351/output/res/layout-sw600dp/layout_snackbar.xml"
+    }
+]
