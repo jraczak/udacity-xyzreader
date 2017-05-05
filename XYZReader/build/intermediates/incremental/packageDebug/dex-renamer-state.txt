@@ -1,4 +1,4 @@
-#Fri May 05 15:05:03 PDT 2017
+#Fri May 05 15:27:09 PDT 2017
 base.0=/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bcede5c26d89385217a5abb86f40118be0d1e7e4
 renamed.1=classes2.dex
 renamed.0=classes.dex

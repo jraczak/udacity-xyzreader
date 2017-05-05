@@ -3,48 +3,48 @@
 
     <item
         is-multidex="true"
-        jar="/Users/Justin/.android/build-cache/d28c17167cefb2c905a05c515625ef70928b697a/output/jars/classes.jar"
+        jar="/Users/Justin/.android/build-cache/fd5eb2365a25af966622bec09847b1ddfa9e0c79/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60a750ce455164bdb3cd2c3052d9d58d8827c328/classes.dex" />
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf4f289bb9c401bccb0e82bfaafe5a90d42a8199/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Justin/.android/build-cache/71c22cb361125f38d63b404d88205f77d63bab36/output/jars/classes.jar"
+        jar="/Users/Justin/.android/build-cache/91ee53ad4fca3459b7b40963848e29eb53ba39c4/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
-        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2469aff1433d2f42c5c7d7e60d2472e3ee815ecc/classes.dex" />
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b78d0b1970ce9dac4badfd2ab8fbeebf4aabc03c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Justin/.android/build-cache/15bee6b970833212eec9014acd5eb9f665f3543e/output/jars/classes.jar"
+        jar="/Users/Justin/.android/build-cache/01521c3caf38f13694f924d0c5f9647d602c3c39/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="c6d79137693d494dee16372d3921f919eb724ced">
-        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9e17c00b16861faf832a05897eb02e3c2e3a0f6/classes.dex" />
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b09eb7217f86c20cbae2d37214f15dcc889b3cc9/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Justin/.android/build-cache/3bcc91907d365e69b2cde1e5c423022b12b1cd35/output/jars/classes.jar"
+        jar="/Users/Justin/.android/build-cache/53a0d74f0143b490494cabc1e2ee0347f6213741/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
-        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e70a055ef470d46daf353764f95f2d7a4d1ae03a/classes.dex" />
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8df3a1ac78ad5fbcc454a027aa98bdefebce05cf/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Justin/.android/build-cache/6281507939249634e77dba17900c125faa359351/output/jars/classes.jar"
+        jar="/Users/Justin/.android/build-cache/34e65e80d34bb91fff06c7b7845cf45c63a43b59/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
-        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da961f50fa8070fd6463c50d2bc51873fe951670/classes.dex" />
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d076efe7a20fb1581f1c0dffc2c6357a895a674/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -54,6 +54,15 @@
         revision="22.0.1"
         sha1="7052283359001bb108753cb0583a887d3bf94c82">
         <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_95fb5ebabfb5e21c8478e2862b591a5e30d93179/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Justin/.android/build-cache/765c801f7e42120feb7f9c0430e233b4246b027f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_389b8aa43e3fbcc2dadb6cc96d59b869d8167adc/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -66,12 +75,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Justin/.android/build-cache/c893e496c04881879dd3e1a7e8ab66c94f2e22dd/output/jars/libs/internal_impl-22.0.0.jar"
+        jar="/Users/Justin/.android/build-cache/038bb907d8e272f4ce7ef3af4df00fd586c58d55/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
-        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_f8a05b89aba8a8f8960e127e9eef4023cee6bd2d/classes.dex" />
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cbe7f7b8f5fb87354f70225dc69603f4241b7cb9/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -84,30 +93,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Justin/.android/build-cache/c893e496c04881879dd3e1a7e8ab66c94f2e22dd/output/jars/classes.jar"
+        jar="/Users/Justin/.android/build-cache/27ac201a6199231d438cab69f86477f89f2bc9c1/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
-        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d508956154ef7715966d255e279fa0fcb0cf37cd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Justin/Developer/android/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_d626df56f312e8db90c5432b050e48a4920f5dd1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Justin/.android/build-cache/1ba2bea7da84bd3181cfbac1a96540892d895139/output/jars/libs/internal_impl-22.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_ad45505e31d4d15e7258c6deee68c1819c075862/classes.dex" />
+        sha1="379a48c2da13ffb7ec7134f2c715663834357670">
+        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3bcb629d71a797520fe7da22c75c10351ef2e381/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -120,6 +111,33 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/Justin/.android/build-cache/c6ad1a6350791cb06d12e27af4958e2e91624b77/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7711c817cfb01f9b8b04b8d5f64b4d5b1a50d6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Justin/Developer/android/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_821401fd884d6f8cdce513d6ca288548d3e631ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Justin/.android/build-cache/4f91cfbfd0e3dc2740b5bfc68e803454c068c006/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52c554555591a71e8406c29298b30f593a0388f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/Justin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
         jumboMode="true"
         optimize="true"
@@ -129,12 +147,30 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Justin/Developer/android/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jar="/Users/Justin/.android/build-cache/86a0cfc1c4fe00871a83b11d3cec8528db385b8a/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="22.0.1"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_d626df56f312e8db90c5432b050e48a4920f5dd1/classes.dex" />
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_654f6cbeae601a22a23fa1d1210ebac64b8cf1d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Justin/.android/build-cache/f7babcea13238869bd47ed3e60fb4df96ba382e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_44a7e3cbf888ee16dec033007156a9dc4ea71c54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Justin/.android/build-cache/6924ce2e1466964d9cf42ab67394137f91a77c66/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d49e0d972104f22c330805d9fda9a96dc37d0e4a/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -147,21 +183,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/Justin/.android/build-cache/7f8d31e4e0e7666910a7a0627d3f476443b9afe8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_78bef7294e80f30afa954070da10f317e5213a23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Justin/.android/build-cache/6cd7f6aa1705f70bf2d0363ee4ee9f58489d7b25/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_133077a75aa7066f040042ff4a243eb82652a9e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="10bb88dcc0667fa306e09cd69aeb244cd0515f46">
+        sha1="5aaf18809854f62f29c6126b7a0ef8b3c4fd4daa">
         <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bcede5c26d89385217a5abb86f40118be0d1e7e4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Justin/.android/build-cache/1ba2bea7da84bd3181cfbac1a96540892d895139/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f39d58f30d9ce5ba748ee4b48271d45da4920212/classes.dex" />
     </item>
     <item
         is-multidex="true"
