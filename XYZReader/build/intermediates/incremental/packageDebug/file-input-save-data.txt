@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri May 05 16:47:45 PDT 2017
+#Fri May 05 16:55:54 PDT 2017
 210.set=ANDROID_RESOURCE
 282.file=/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/layout/abc_screen_simple_overlay_action_mode.xml
 14.set=ANDROID_RESOURCE

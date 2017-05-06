@@ -6,7 +6,7 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.1"
-    timestamp="1494028110385"
+    timestamp="1494029855818"
     token="7484689931440380988"
     verifier="COMPATIBLE" >
 
@@ -73,16 +73,21 @@
         timestamp="1494028047808"
         verifier="R_CLASS_CHANGE" >
         <artifact
-            location="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/split-apk/debug/slices/slice_0.apk"
-            type="SPLIT" />
-        <artifact
             location="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1494028535458"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
             location="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
@@ -90,7 +95,7 @@
     </build>
     <build
         build-mode="HOT_WARM"
-        timestamp="1494028110385"
+        timestamp="1494029855818"
         verifier="COMPATIBLE" >
         <artifact
             location="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"

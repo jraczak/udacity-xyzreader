@@ -757,7 +757,7 @@ int id add 0x7f0e001e
 int id alertTitle 0x7f0e0058
 int id all 0x7f0e0036
 int id always 0x7f0e003a
-int id appBar 0x7f0e0076
+int id appBar 0x7f0e0078
 int id article_body 0x7f0e008d
 int id article_byline 0x7f0e008c
 int id article_subtitle 0x7f0e0090
@@ -835,7 +835,7 @@ int id pin 0x7f0e0031
 int id progress_circular 0x7f0e0006
 int id progress_horizontal 0x7f0e0007
 int id radio 0x7f0e005d
-int id recycler_view 0x7f0e0078
+int id recycler_view 0x7f0e0077
 int id refresh 0x7f0e00aa
 int id right 0x7f0e002d
 int id right_icon 0x7f0e00a0
@@ -876,7 +876,7 @@ int id start 0x7f0e002e
 int id status_bar_latest_event_content 0x7f0e0096
 int id submenuarrow 0x7f0e005e
 int id submit_area 0x7f0e006f
-int id swipe_refresh_layout 0x7f0e0077
+int id swipe_refresh_layout 0x7f0e0076
 int id tabMode 0x7f0e0011
 int id text 0x7f0e00a6
 int id text2 0x7f0e00a4
