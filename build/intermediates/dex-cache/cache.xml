@@ -192,21 +192,21 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4f398be63898d769f515deb512e23bbf5bc660fe">
+        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bcede5c26d89385217a5abb86f40118be0d1e7e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/Justin/.android/build-cache/6cd7f6aa1705f70bf2d0363ee4ee9f58489d7b25/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
         <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_133077a75aa7066f040042ff4a243eb82652a9e6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5aaf18809854f62f29c6126b7a0ef8b3c4fd4daa">
-        <dex dex="/Users/Justin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bcede5c26d89385217a5abb86f40118be0d1e7e4/classes.dex" />
     </item>
     <item
         is-multidex="true"
