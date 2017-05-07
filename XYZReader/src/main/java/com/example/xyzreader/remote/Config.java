@@ -10,7 +10,7 @@ public class Config {
         URL url = null;
         try {
             //url = new URL("https://dl.dropboxusercontent.com/u/231329/xyzreader_data/data.json" );
-            url = new URL("https://nspf.github.io/XYZReader/data.json");
+            url = new URL("https://raw.githubusercontent.com/TNTest/xyzreader/master/data.json");
         } catch (MalformedURLException ignored) {
             // TODO: throw a real error
         }
